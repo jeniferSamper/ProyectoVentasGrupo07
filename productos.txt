@@ -1,6 +1,6 @@
-P1;Zapatos;78890.0
-P2;Zapatos;84234.0
-P3;Pantalon;38975.0
-P4;Zapatos;51011.0
-P5;Pantalon;90201.0
-P6;Camisa;87514.0
+P1;Reloj;69266.0
+P2;Gorra;87398.0
+P3;Zapatos;52305.0
+P4;Zapatos;55997.0
+P5;Bolso;96885.0
+P6;Gorra;90136.0
