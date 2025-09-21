@@ -1,0 +1,4 @@
+P001;Manzanas;1200
+P002;Naranjas;800
+P003;Peras;1500
+P004;Bananas;900
