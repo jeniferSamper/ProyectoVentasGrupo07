@@ -1,0 +1,62 @@
+1)Lo aprendido durante el desarrollo del proyecto. 
+En este proyecto el objetivo fue consolidar conceptos basicos y fundamentales en programacion usando Java para mejorar nuestra manera de programar, documentacion y organizacion del codigo, algunos conceptos trabajados fueron: 
+
+ 
+
+Manejo de archivos planos para creacion, lectura y modificacion en formatos .txt o .csv 
+
+Estructuras de datos con el uso de ArrayList para listas y HashMap para mapas con el fin de organizar y procesar mejor la informacion. 
+
+Control del flujo del codigo usando estructuras condicionales y repetitivas para el procesamiento de la informacion tale como if, if else, for, forEach, While. 
+
+Generar datos aleatorios con el uso de la clase Random para poder crear datos simulados. 
+
+Fortalecer los conocimientos de la programacion orientada a objetos con el uso de constructores, metodos, encapsulamiento, reutilizacion del codigo entre otros 
+
+Manejo de excepciones con bloques como el try-catch para mejor manejo de errores en tiempos de ejecucion. 
+
+Documentacion correcta del codigo para generar un adecuado JavaDoc con las etiquetas correspondientes para mantener el codigo legible y bien comentado. 
+
+Organizacion y buenas practicas de programacion como una clara division del codigo y nombramiento correcto de variables, clases y metodos. 
+
+Fortalecer nuestros conocimientos en el uso de herramientas como Eclipse y el manejo de repositorios en GitHub 
+
+Durante el desarrollo del proyecto se adquirieron conocimientos solidos sobre la programacion orientada a objetos (POO) en Java, aplicando conceptos como clases, objetos, herencia, encapsulamiento y polimorfismo. Tambien se comprendio la importancia de estructurar correctamente el codigo, separando las responsabilidades en distintas clases para facilitar su mantenimiento y comprension. 
+
+Asimismo, se fortalecieron las habilidades en la lectura y escritura de archivos CSV, lo que permitio comprender mejor la forma en que los sistemas pueden gestionar informacion externa. Se aprendio a generar reportes de manera automatica y a organizar los datos en carpetas estructuradas, simulando el funcionamiento de un sistema real de ventas. 
+
+El trabajo en equipo tambien fue un aprendizaje relevante, ya que permitio coordinar tareas, compartir conocimientos y realizar revisiones colaborativas del codigo, mejorando tanto la calidad del proyecto como la comunicacion entre los integrantes. 
+
+ 
+
+2)Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y practicados durante el desarrollo del proyecto.  
+ 
+
+	Los conceptos y herramientas aprendidas durante este proyecto nos ayudan a tener mayor destreza al momento de programar y son aplicables en el campo relacionado con procesamiento de datos, automatizacion y manipulacion de archivos para generar reportes de datos. Este tipo de logica se puede usar en ambientes empresariales donde se requiere analizar informacion y puede ser util para sistemas de ventas, inventarios, gestion de usuarios. 
+ 
+Ademas la practica con Java fortalece nuestras capacidades como desarrollador en el area del backend y nos prepara para poder crear soluciones sostenibles y escalables. 
+
+ 
+
+Los conocimientos y destrezas adquiridos durante el proyecto tienen multiples aplicaciones en el ambito profesional. El dominio de la programacion en Java y el uso de la POO son competencias fundamentales para el desarrollo de software en empresas tecnologicas, proyectos de automatizacion, sistemas administrativos o aplicaciones moviles. 
+
+El manejo de archivos CSV y generacion de reportes es util en areas que requieran el procesamiento de grandes volumenes de datos, como el analisis de informacion comercial, financiera o de inventarios. Ademas, las buenas practicas aprendidas en la organizacion del codigo y el trabajo colaborativo son esenciales para desenvolverse en equipos de desarrollo agiles y multidisciplinarios. 
+
+En conjunto, estas habilidades fortalecen la capacidad para disenar soluciones eficientes, escalables y bien estructuradas, aplicables a diferentes entornos profesionales. 
+
+ 
+
+3)Las dificultades presentadas durante el desarrollo del proyecto.  
+ 
+
+Lograr archivos generados con formatos correctos y organizados. 
+
+Manejar una buena estructura en el codigo, separando funcionalidades. 
+
+Manejo de rutas de los archivos dentro del proyecto. 
+
+Investigar el uso de Github con Eclipse y lograr crear un repositorio con actualizaciones. 
+
+Entre las principales dificultades se encontro el manejo de errores en la lectura y escritura de archivos, especialmente al trabajar con formatos CSV y garantizar la integridad de los datos. Tambien resulto un reto estructurar adecuadamente las clases y definir las relaciones entre ellas sin generar dependencias innecesarias. 
+
+Otra dificultad fue la coordinacion de las tareas en equipo, ya que se requeria unificar estilos de programacion, revisar versiones del codigo y mantener la coherencia del proyecto. Sin embargo, superar estos obstaculos permitio fortalecer las habilidades tecnicas, mejorar la comunicacion y comprender la importancia de la planificacion y el control de versiones en un proyecto de desarrollo de software.
